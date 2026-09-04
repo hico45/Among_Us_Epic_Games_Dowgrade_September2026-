@@ -23,4 +23,4 @@ Po uruchomieniu skryptu otworzy się okno przeglądarki z kodem.
 4. Gotowe! Grę uruchamiaj **zawsze** za pomocą pliku `EpicGamesStarter.exe`, który znajduje się w tym folderze. Nie włączaj gry przez oficjalną aplikację Epic Games.
 
 ## Poradnik Youtube
-https://youtu.be/rQqqKsRTPHM
+[Among Us na Epic Games](https://youtu.be/rQqqKsRTPHM)
