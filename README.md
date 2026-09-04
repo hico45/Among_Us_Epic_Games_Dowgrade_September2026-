@@ -18,7 +18,7 @@ Po uruchomieniu skryptu otworzy się okno przeglądarki z kodem.
 
 ## Krok 4: Instalacja modów
 1. Wejdź do nowo utworzonego folderu ze starszą wersją gry.
-2. Pobierz mody (https://townofus.pl/instalacja-tou)
+2. Pobierz mody [Town of Us: Mira](https://townofus.pl/instalacja-tou)
 3. Wypakuj bezpośrednio do niego wszystkie pliki wybranego moda.
 4. Gotowe! Grę uruchamiaj **zawsze** za pomocą pliku `EpicGamesStarter.exe`, który znajduje się w tym folderze. Nie włączaj gry przez oficjalną aplikację Epic Games.
 
